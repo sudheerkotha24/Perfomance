@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\sudheerkotha\Documents\VuGen\Scripts\Time1
+-IC:\Program Files (x86)\HP\LoadRunner\include
+-ec:\users\sudheerkotha\documents\vugen\scripts\time1\\logfile.log
+c:\users\sudheerkotha\documents\vugen\scripts\time1\\combined_Time1.c
+c:\users\sudheerkotha\documents\vugen\scripts\time1\\pre_cci.c
